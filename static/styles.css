@@ -1,0 +1,13 @@
+.button{
+	padding: 0.6em;
+	background-image: linear-gradient(#373738, #4c4c4c);
+	color: white;
+	border-radius: 8px;
+}
+
+
+label{
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 0.9em;
+}
